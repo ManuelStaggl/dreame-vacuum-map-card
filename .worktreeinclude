@@ -1,0 +1,5 @@
+# Gitignorierte Dateien, die in jede neue Worktree kopiert werden.
+# Die Desktop-App legt fuer JEDE neue Session eine eigene Worktree an;
+# eine frische Worktree enthaelt nur getrackte Dateien. Ohne diesen
+# Eintrag faende der SessionStart-Hook den Staffelstab dort nicht mehr.
+.claude/handoff.md

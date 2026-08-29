@@ -27,3 +27,6 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Staffelstab der laufenden Sitzung (Sitzungszustand, kein Projektwissen)
+.claude/handoff.md
